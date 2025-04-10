@@ -1,4 +1,5 @@
 Projeto de Agentes Colaborativos para Criação de Artigos
+
 Este projeto utiliza a framework CrewAI juntamente com o LangChain para criar uma rede de agentes colaborativos que coletam informações, redigem e revisam artigos sobre IA Generativa, utilizando dados extraídos de um banco de dados PostgreSQL.
 
 🛠️ Tecnologias Utilizadas
